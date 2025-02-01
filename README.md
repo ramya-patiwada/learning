@@ -1,2 +1,2 @@
 # learning
-i learn git and git hub through Apnacollege
+i learn git and git hub through Apnacollege.
